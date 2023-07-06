@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Downloads\DockerApp\DockerDotNetApp\out\DockerDotNetApp.exe
+C:\Users\Lenovo\Downloads\DockerApp\DockerDotNetApp\out\appsettings.Development.json
+C:\Users\Lenovo\Downloads\DockerApp\DockerDotNetApp\out\appsettings.json
+C:\Users\Lenovo\Downloads\DockerApp\DockerDotNetApp\out\DockerDotNetApp.dll
+C:\Users\Lenovo\Downloads\DockerApp\DockerDotNetApp\out\DockerDotNetApp.deps.json
+C:\Users\Lenovo\Downloads\DockerApp\DockerDotNetApp\out\DockerDotNetApp.runtimeconfig.json
+C:\Users\Lenovo\Downloads\DockerApp\DockerDotNetApp\out\DockerDotNetApp.pdb
